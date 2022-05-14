@@ -1,2 +1,2 @@
-# Twitter-Sentiment-Analysis
-Twitter Sentiment Analysis of Apple Product Reviews
+# Twitter-sentiment-analysis
+Twitter sentiment analysis of Apple Product Reviews
